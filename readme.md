@@ -3,7 +3,7 @@
 ## Inference
 1- clone this repository:
 ```
-git clone ""
+git clone https://github.com/Jhamed7/Fashion-Mnist-Classifier.git
 ```
 2- Install required packages:
 ```
