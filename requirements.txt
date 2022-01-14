@@ -1,0 +1,12 @@
+# pip install -r requirements.txt
+
+# Base ----------------------------------------
+matplotlib
+numpy
+opencv-python
+torch
+torchvision
+tqdm
+
+# Logging -------------------------------------
+wandb
